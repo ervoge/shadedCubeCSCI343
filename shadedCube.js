@@ -1,4 +1,5 @@
-
+//Emily Vogelsperger
+//CSCI 343 Graphics
 
 var canvas;
 var gl;
